@@ -3,7 +3,7 @@
 * I'm keen on coding via python on specifically Artificial Intelligence and Data Science projects.
 * My main goal is learning ML and DL tools and trying to solve atmospheric and earth sciences problems by using this tools  as a predictive approach.
 * I would be appreciated any help through this learning process.
-* I have two adorable cats and their names are husniye and tarcho. Playing games with them is my favorite hobby.
+* I have two adorable cats and their names are Husniye and Tarcho. Playing games with them is my favorite hobby.
 
 # Background 
 
