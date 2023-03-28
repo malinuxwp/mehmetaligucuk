@@ -6,7 +6,7 @@
 * I have two adorable cats and their names are Husniye and Tarcho. Playing games with them in my spare time is my favorite hobby.
 * I am happy to study anything related to nature.
 
-# Background 
+# Background
 
 * I graduated from Istanbul Technical University with a Bachelor of Meteorological Engineering at Atmospheric Sciences Program. * I'd like to study my PhD in especially via implementing AI tools to Air Pollution, Dust Detection and Transportation and Tracinkg the Pollution on the Oceans.
 * I enjoy learning new things and working with a team to find a solution to an existing problem or a future problem, discussing solutions together is one of the ways I enjoy the most.
