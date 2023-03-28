@@ -1,5 +1,5 @@
 # mehmetaligucuk
-* I'm currently working on Aviation Meteorogy Department as a weather forecaster and studying as a master degree student in Earth Sciences at Istanbul Technical University.
+* I'm currently working on Aviation Meteorology Department as a weather forecaster and studying as a master degree student in Earth Sciences at Istanbul Technical University.
 * I'm keen on coding via python on specifically Artificial Intelligence and Data Science projects.
 * My main goal is learning ML and DL tools and trying to solve atmospheric and earth sciences problems by using this tools  as a predictive approach.
 * I would be appreciated any help through this learning process.
